@@ -6,7 +6,7 @@ npm i typeface-byekan
 Fonts will be copied to node_modules/typeface-byekan/dist directory
 and you could add them easily to your project :
 ```javascript
-import 'typeface-byekan';
+import 'typeface-yekan';
 ```
 and use `font-family: 'Yekan'` in your styling.
 
@@ -26,3 +26,6 @@ we used to do this with :
     font-style: normal;
 }
 ```
+
+### todo :
+add `bold`,and `thin` fonts-faces
