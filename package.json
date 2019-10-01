@@ -1,0 +1,24 @@
+{
+  "name": "typeface-yekan",
+  "version": "1.0.0",
+  "description": "Easy to use font family",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafar-rezaei/typeface-yekan.git"
+  },
+  "keywords": [
+    "fontfamily",
+    "yekan",
+    "typeface"
+  ],
+  "author": "JafarRezaei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jafar-rezaei/typeface-yekan/issues"
+  },
+  "homepage": "https://github.com/jafar-rezaei/typeface-yekan#readme"
+}
