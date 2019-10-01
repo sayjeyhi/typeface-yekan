@@ -1,7 +1,7 @@
 Typeface package for byekan font
 
 ```bash
-npm i typeface-byekan
+npm i typeface-yekan
 ```
 Fonts will be copied to node_modules/typeface-byekan/dist directory
 and you could add them easily to your project :
