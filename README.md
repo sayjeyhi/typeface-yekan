@@ -1,4 +1,8 @@
-Typeface package for byekan font
+# Easy to use byekan typeface
+
+> 😄 use me with npm install
+
+Typeface package for byekan font with [typography.js](https://github.com/KyleAMathews/typography.js)
 
 ```bash
 npm i -S typeface-yekan
