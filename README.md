@@ -1,6 +1,6 @@
 # Easy to use byekan typeface
 
-> 😄 use me with npm install
+> 😄 use me with npm 
 
 Typeface package for byekan font with [typography.js](https://github.com/KyleAMathews/typography.js)
 
